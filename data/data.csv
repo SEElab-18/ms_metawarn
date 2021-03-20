@@ -1,133 +1,133 @@
-﻿author,year,obs,study,group,study_type,class,subclass,order,suborder,family,genus,species,other,sex,polymorphic_plastic,tox_note,tox_measure,col_var,source,n,r,note
-Arenas et al.,2015,obs001,s001,g001,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Adalia,Adalia_bipunctata,NA,both,1,no_daphnia_dead,bioassay,saturation,fig_3,39,0.19,
-Arenas et al.,2015,obs002,s001,g002,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Aphidecta,Aphidecta_obliterata,NA,both,1,no_daphnia_dead,bioassay,saturation,fig_3,36,0.22,
-Arenas et al.,2015,obs003,s001,g003,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Propylea,Propylea_quatuordecimpunctata,NA,both,1,no_daphnia_dead,bioassay,saturation,fig_3,36,0.12,
-Arenas et al.,2015,obs004,s001,g004,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Halyzia,Halyzia_sedecimguttata,NA,both,1,no_daphnia_dead,bioassay,saturation,fig_3,36,0.38,
-Arenas et al.,2015,obs005,s001,g005,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Exochomus,Exochomus_quadripustulatus,NA,both,1,no_daphnia_dead,bioassay,saturation,fig_3,37,0.03,
-Arenas et al.,2015,obs006,s001,g006,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Adalia,Adalia_bipunctata,NA,both,1,no_daphnia_dead,bioassay,saturation,fig_3,37,0.22,
-Arenas et al.,2015,obs007,s001,g001,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Adalia,Adalia_bipunctata,NA,both,1,no_daphnia_dead,bioassay,internal_contrast,fig_s3,39,-0.09,luminance contrast
-Arenas et al.,2015,obs008,s001,g002,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Aphidecta,Aphidecta_obliterata,NA,both,1,no_daphnia_dead,bioassay,internal_contrast,fig_s3,36,0.3,luminance contrast
-Arenas et al.,2015,obs009,s001,g003,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Propylea,Propylea_quatuordecimpunctata,NA,both,1,no_daphnia_dead,bioassay,internal_contrast,fig_s3,36,0.21,luminance contrast
-Arenas et al.,2015,obs010,s001,g004,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Halyzia,Halyzia_sedecimguttata,NA,both,1,no_daphnia_dead,bioassay,internal_contrast,fig_s3,36,-0.14,luminance contrast
-Arenas et al.,2015,obs011,s001,g005,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Exochomus,Exochomus_quadripustulatus,NA,both,1,no_daphnia_dead,bioassay,internal_contrast,fig_s3,37,-0.11,luminance contrast
-Arenas et al.,2015,obs012,s001,g006,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Adalia,Adalia_bipunctata,NA,both,1,no_daphnia_dead,bioassay,internal_contrast,fig_s3,37,-0.19,luminance contrast
-Vidal-Cordero et al.,2012,obs013,s002,g007,among_individuals,insecta,pterygota,hymenoptera,apocrita,vespidae,Polistes,Polistes_dominula,NA,female,0,poison_gland_size,physiological,brightness,text,30,0.41,pca1
-Bezzerides et al.,2007,obs014,s003,g008,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Harmonia,Harmonia_axyridis,NA,male,1,total_alkaloid_conc,physiological,hue,text,17,-0.03,
-Bezzerides et al.,2007,obs015,s003,g009,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Harmonia,Harmonia_axyridis,NA,female,1,total_alkaloid_conc,physiological,hue,text,25,-0.19,
-Bezzerides et al.,2007,obs016,s003,g008,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Harmonia,Harmonia_axyridis,NA,male,1,total_alkaloid_conc,physiological,area,text,22,0.41,
-Bezzerides et al.,2007,obs017,s003,g009,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Harmonia,Harmonia_axyridis,NA,female,1,total_alkaloid_conc,physiological,area,text,27,0.61,
-Bezzerides et al.,2007,obs018,s003,g008,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Harmonia,Harmonia_axyridis,NA,male,1,total_alkaloid_conc,physiological,brightness,text,22,0.16,
-Bezzerides et al.,2007,obs019,s003,g009,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Harmonia,Harmonia_axyridis,NA,female,1,total_alkaloid_conc,physiological,brightness,text,27,0.56,
-Cortesi & Cheney,2007,obs020,s004,g010,among_species,gastropoda,heterobranchia,NA,NA,NA,NA,NA,NA,both,NA,brine_shrimp_mortality,bioassay,internal_contrast,,20,0.59,RN - JNDs
-Cortesi & Cheney,2007,obs021,s004,g011,among_species,gastropoda,heterobranchia,NA,NA,NA,NA,NA,NA,both,NA,brine_shrimp_mortality,bioassay,external_contrast,,20,0.63,RN - JNDs
-Crothers et al.,2016,obs022,s005,g012,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,NA,male,1,alkaloid_quantity,physiological,brightness,text,20,0.03,
-Crothers et al.,2016,obs023,s005,g012,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,NA,male,1,alkaloid_quantity,physiological,saturation,text,20,0.02,
-Crothers et al.,2016,obs024,s005,g012,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,NA,male,1,alkaloid_quantity,physiological,external_contrast,table_s1,20,0.33,RN - JNDs
-Crothers et al.,2016,obs025,s005,g012,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,NA,male,1,pumiliotoxin_quantity,physiological,brightness,text,20,-0.53,
-Crothers et al.,2016,obs026,s005,g012,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,NA,male,1,pumiliotoxin_quantity,physiological,saturation,text,20,0.02,
-Crothers et al.,2016,obs027,s005,g012,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,NA,male,1,pumiliotoxin_quantity,physiological,external_contrast,table_s1,20,0.25,RN - JNDs
-Winters et al.,2014,obs028,s006,g013,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,NA,both,1,precoccinelline_concentration,physiological,saturation,table_1,32,0.61,eggs
-Winters et al.,2014,obs029,s006,g013,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,NA,both,1,precoccinelline_concentration,physiological,hue,table_1,32,0.57,eggs
-Winters et al.,2014,obs030,s006,g013,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,NA,both,1,precoccinelline_concentration,physiological,brightness,table_1,32,-0.02,eggs
-Winters et al.,2014,obs031,s006,g013,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,NA,both,1,coccinelline_concentration,physiological,saturation,table_1,32,0.29,eggs
-Winters et al.,2014,obs032,s006,g013,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,NA,both,1,coccinelline_concentration,physiological,hue,table_1,32,0.14,eggs
-Winters et al.,2014,obs033,s006,g013,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,NA,both,1,coccinelline_concentration,physiological,brightness,table_1,32,0.22,eggs
-Briolat et al.,2018a,obs034,s007,g014,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,hue,table_s4,22,0.05,
-Briolat et al.,2018a,obs035,s007,g014,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,internal_contrast,table_s4,22,0.15,luminance
-Briolat et al.,2018a,obs036,s007,g014,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,area,table_s4,22,0.28,prop_red
-Briolat et al.,2018a,obs037,s007,g014,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,brightness,table_s4,22,0.42,
-Briolat et al.,2018a,obs038,s007,g014,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,internal_contrast,table_s4,22,0.47,chromatic
-Briolat et al.,2018a,obs039,s007,g015,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,area,table_s4,23,0.27,area
-Briolat et al.,2018a,obs040,s007,g015,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,saturation,table_s4,23,0.31,
-Briolat et al.,2018a,obs041,s007,g015,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,internal_contrast,table_s4,23,0.15,chromatic
-Briolat et al.,2018a,obs042,s007,g015,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,internal_contrast,table_s4,23,0.22,luminance
-Briolat et al.,2018a,obs043,s007,g015,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,brightness,table_s4,23,0.26,
-Briolat et al.,2018a,obs044,s007,g016,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,internal_contrast,table_s4,25,0.2,chromatic
-Briolat et al.,2018a,obs045,s007,g016,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,saturation,table_s4,25,0.09,
-Briolat et al.,2018a,obs046,s007,g016,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,area,table_s4,25,0.3,prop red
-Briolat et al.,2018a,obs047,s007,g016,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,internal_contrast,table_s4,25,0.37,lum
-Briolat et al.,2018a,obs048,s007,g016,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic glucoside level,physiological,brightness,table_s4,25,0.48,
-Briolat et al.,2018a,obs049,s007,g017,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,male,0,cyanogenic glucoside level,physiological,brightness,table_1,9,-0.27,
-Briolat et al.,2018a,obs050,s007,g017,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,male,0,cyanogenic glucoside level,physiological,saturation,table_1,9,-0.33,
-Briolat et al.,2018a,obs051,s007,g017,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,male,0,cyanogenic glucoside level,physiological,hue,table_1,9,-0.04,
-Briolat et al.,2018a,obs052,s007,g017,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,male,0,cyanogenic glucoside level,physiological,internal_contrast,table_1,9,-0.15,chromatic
-Briolat et al.,2018a,obs053,s007,g017,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,male,0,cyanogenic glucoside level,physiological,internal_contrast,table_1,9,-0.28,luminance
-Briolat et al.,2018a,obs054,s007,g017,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,male,0,cyanogenic glucoside level,physiological,area,table_1,9,-0.37,
-Briolat et al.,2018a,obs055,s007,g018,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,female,0,cyanogenic glucoside level,physiological,brightness,table_1,11,0.78,
-Briolat et al.,2018a,obs056,s007,g018,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,female,0,cyanogenic glucoside level,physiological,saturation,table_1,11,0.5,
-Briolat et al.,2018a,obs057,s007,g018,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,female,0,cyanogenic glucoside level,physiological,hue,table_1,11,0.48,
-Briolat et al.,2018a,obs058,s007,g018,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,female,0,cyanogenic glucoside level,physiological,internal_contrast,table_1,11,0.53,chromatic
-Briolat et al.,2018a,obs059,s007,g018,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,female,0,cyanogenic glucoside level,physiological,internal_contrast,table_1,11,0.08,luminance
-Briolat et al.,2018a,obs060,s007,g018,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,female,0,cyanogenic glucoside level,physiological,area,table_1,11,0.55,
-Maan & Cummings,2012,obs061,s008,g019,among_populations,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,NA,both,1,alkaloid extract injected into mice,bioassay,brightness,text,10,0.78,
-Maan & Cummings,2012,obs062,s008,g019,among_populations,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,NA,both,1,alkaloid extract injected into mice,bioassay,external_contrast,fig_4,10,0.92,ch_and_ach
-Preibler et al.,2019,obs063,s009,g020,among_individuals,amphibia,lissamphibia,urodela,salamandroidea,salamandridae,Salamandra,Salamandra_salamandra,NA,both,1,Samandarine_samandarone_concentration,physiological,area,table_1,25,0.1,yellow ratio
-Medina et al,2020,obs064,s010,g021,among_individuals,insecta,pterygota,hemiptera,heteroptera,scutelleridae,Tectocoris,Tectocoris_diophthalmus,NA,male,1,daphnia_mortality,bioassay,internal_contrast,fig_3,16,0.08,
-Medina et al,2020,obs065,s010,g021,among_individuals,insecta,pterygota,hemiptera,heteroptera,scutelleridae,Tectocoris,Tectocoris_diophthalmus,NA,male,1,daphnia_mortality,bioassay,external_contrast,fig_3,16,0.4,
-Medina et al,2020,obs066,s010,g022,among_individuals,insecta,pterygota,hemiptera,heteroptera,scutelleridae,Tectocoris,Tectocoris_diophthalmus,NA,female,1,daphnia_mortality,bioassay,internal_contrast,fig_3,23,0.37,
-Medina et al,2020,obs067,s010,g022,among_individuals,insecta,pterygota,hemiptera,heteroptera,scutelleridae,Tectocoris,Tectocoris_diophthalmus,NA,female,1,daphnia_mortality,bioassay,external_contrast,fig_3,23,-0.17,
-Medina et al,2020,obs068,s010,g023,among_individuals,insecta,pterygota,hemiptera,heteroptera,scutelleridae,Tectocoris,Tectocoris_diophthalmus,NA,both,1,daphnia_mortality,bioassay,internal_contrast,fig_3,11,-0.45,
-Medina et al,2020,obs069,s010,g023,among_individuals,insecta,pterygota,hemiptera,heteroptera,scutelleridae,Tectocoris,Tectocoris_diophthalmus,NA,both,1,daphnia_mortality,bioassay,external_contrast,fig_3,11,-0.48,
-Darst et al.,2006,obs070,s011,g024,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Epipedobates,Epipedobates_bilinguis,NA,both,0,alkaloid extract injected into mice,bioassay,internal_contrast,table_s1,19,0.84,
-Darst et al.,2006,obs071,s011,g025,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Epipedobates,Epipedobates_parvulus,NA,both,0,alkaloid extract injected into mice,bioassay,internal_contrast,table_s1,24,0.83,
-Darst et al.,2006,obs072,s011,g026,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Epipedobates,Epipedobates_hahneli,NA,both,0,alkaloid extract injected into mice,bioassay,internal_contrast,table_s1,10,0.86,
-Santos & Cannatella,2011,obs073,s012,g027,among_species,amphibia,lissamphibia,anura,NA,NA,NA,NA,NA,both,,alkaloid quantity,physiological,external_contrast,table_s5,21,0.7,
-Santos & Cannatella,2011,obs074,s012,g027,among_species,amphibia,lissamphibia,anura,NA,NA,NA,NA,NA,both,,alkaloid diversity,physiological,external_contrast,table_s5,21,0.55,
-Summers & Clough,2001,obs075,s013,g028,among_species,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,NA,NA,NA,both,,chemical diversity,physiological,external_contrast,table_1,21,0.53,
-Summers & Clough,2001,obs076,s013,g028,among_species,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,NA,NA,NA,both,,chemical quantity,physiological,external_contrast,table_1,21,0.67,
-Blount et al.,2012,obs077,s014,g029,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,NA,male,1,precoccinelline_concentration,physiological,saturation,fig_2,18,0.71,carot conc
-Blount et al.,2012,obs078,s014,g030,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,NA,male,1,coccinelline_concentration,physiological,saturation,fig_2,18,-0.44,carot conc
-Blount et al.,2012,obs079,s014,g029,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,NA,male,1,coccinelline_concentration,physiological,area,fig_2,18,0.25,
-Blount et al.,2012,obs080,s014,g030,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,NA,female,1,precoccinelline_concentration,physiological,saturation,fig_2,13,0.23,carot conc
-Blount et al.,2012,obs081,s014,g029,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,NA,female,1,coccinelline_concentration,physiological,saturation,fig_2,13,0.42,carot conc
-Blount et al.,2012,obs082,s014,g030,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,NA,female,1,coccinelline_concentration,physiological,area,fig_2,13,-0.18,
-Stuckert et al.,2018,obs083,s015,g031,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Ranitomeya,Ranitomeya_imitator,NA,male,1,alkaloid quantity,physiological,brightness,text,10,-0.34,
-Stuckert et al.,2018,obs084,s015,g031,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Ranitomeya,Ranitomeya_imitator,NA,male,1,alkaloid quantity,physiological,external_contrast,text,10,0.21,luminance - avian JNDs
-Stuckert et al.,2018,obs085,s015,g031,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Ranitomeya,Ranitomeya_imitator,NA,male,1,alkaloid quantity,physiological,external_contrast,text,10,0.19,chromatic - avian JNDs
-Bonasea & Vaira,2012,obs086,s016,g032,among_populations,amphibia,lissamphibia,anura,neobatrachia,Bufonidae,Melanophryniscus,Melanophryniscus_rubriventris ,NA,both,1,alkaloid diversity,physiological,area,fig_5,5,-0.75,
-Bonasea & Vaira,2012,obs087,s016,g032,among_populations,amphibia,lissamphibia,anura,neobatrachia,Bufonidae,Melanophryniscus,Melanophryniscus_rubriventris ,NA,both,1,alkaloid diversity,physiological,saturation,text,5,-0.47,
-Bonasea & Vaira,2012,obs088,s016,g032,among_populations,amphibia,lissamphibia,anura,neobatrachia,Bufonidae,Melanophryniscus,Melanophryniscus_rubriventris ,NA,both,1,alkaloid diversity,physiological,hue,text,5,-0.26,
-Bonasea & Vaira,2012,obs089,s016,g032,among_populations,amphibia,lissamphibia,anura,neobatrachia,Bufonidae,Melanophryniscus,Melanophryniscus_rubriventris ,NA,both,1,alkaloid diversity,physiological,brightness,text,5,0.25,
-Sanchez et al.,2018,obs090,s017,g033,among_individuals,amphibia,lissamphibia,urodela,salamandroidea,salamandridae,Salamandra,Salamandra_salamandra,NA,both,1,alkaloid quantity,physiological,external_contrast,fig_sm5,43,0.13,chromatic
-Sanchez et al.,2018,obs091,s017,g033,among_individuals,amphibia,lissamphibia,urodela,salamandroidea,salamandridae,Salamandra,Salamandra_salamandra,NA,both,1,alkaloid quantity,physiological,external_contrast,fig_sm5,43,0.04,achromatic
-Sanchez et al.,2018,obs092,s017,g033,among_individuals,amphibia,lissamphibia,urodela,salamandroidea,salamandridae,Salamandra,Salamandra_salamandra,NA,both,1,alkaloid quantity,physiological,internal_contrast,fig_sm6,43,0.07,chromatic
-Sanchez et al.,2018,obs093,s017,g033,among_individuals,amphibia,lissamphibia,urodela,salamandroidea,salamandridae,Salamandra,Salamandra_salamandra,NA,both,1,alkaloid quantity,physiological,internal_contrast,fig_sm6,43,0.13,achromatic
-Paul et al. ,2018,obs094,s018,g034,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Adalia,Adalia_bipunctata,NA,both,1,adaline_conc,physiological,brightness,table_2,104,0.54,eggs
-Paul et al. ,2018,obs095,s018,g034,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Adalia,Adalia_bipunctata,NA,both,1,adaline_conc,physiological,saturation,table_2,104,0.29,eggs
-Winters et al.,2018,obs096,s019,g035,among_species,gastropoda,heterobranchia,NA,NA,NA,NA,NA,NA,both,,brine_shrimp_mortality,bioassay,saturation,supp,6,0.69,
-Winters et al.,2018,obs097,s019,g035,among_species,gastropoda,heterobranchia,NA,NA,NA,NA,NA,NA,both,,brine_shrimp_mortality,bioassay,brightness,supp,6,-0.07,
-Winters et al.,2018,obs098,s019,g035,among_species,gastropoda,heterobranchia,NA,NA,NA,NA,NA,NA,both,,brine_shrimp_mortality,bioassay,hue,supp,6,0.48,
-Amezquita et al.,2017,obs099,s020,g036,among_populations,amphibia,lissamphibia,anura,neobatrachia,allobatinae,Allobates,Allobates_femoralis,NA,both,1,mouse_inject,bioassay,brightness,composite,6,0.51,
-Amezquita et al.,2017,obs100,s020,g037,among_species,amphibia,lissamphibia,anura,neobatrachia,NA,NA,NA,NA,both,1,mouse_inject,bioassay,brightness,composite,7,0.25,
-Briolat et al.,2018b,obs101,s021,g038,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,NA,NA,NA,both,0,cyanogenic_glucoside concentration,physiological,brightness,raw_data,14,0.22,
-Briolat et al.,2018b,obs102,s021,g038,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,NA,NA,NA,both,0,cyanogenic_glucoside concentration,physiological,saturation,raw_data,14,-0.58,
-Briolat et al.,2018b,obs103,s021,g038,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,NA,NA,NA,both,0,cyanogenic_glucoside concentration,physiological,hue,raw_data,14,-0.56,
-Briolat et al.,2018b,obs104,s021,g038,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,NA,NA,NA,both,0,cyanogenic_glucoside concentration,physiological,external_contrast,raw_data,14,-0.61,luminance
-Briolat et al.,2018b,obs105,s021,g038,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,NA,NA,NA,both,0,cyanogenic_glucoside concentration,physiological,external_contrast,raw_data,12,0.05,chrom
-Briolat et al.,2018b,obs106,s021,g039,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Aglaope,Aglaope_infausta,NA,both,0,cyanogenic_glucoside concentration,physiological,brightness,raw_data,6,0.24,
-Briolat et al.,2018b,obs107,s021,g039,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Aglaope,Aglaope_infausta,NA,both,0,cyanogenic_glucoside concentration,physiological,saturation,raw_data,6,-0.18,
-Briolat et al.,2018b,obs108,s021,g039,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Aglaope,Aglaope_infausta,NA,both,0,cyanogenic_glucoside concentration,physiological,hue,raw_data,6,-0.17,
-Briolat et al.,2018b,obs109,s021,g039,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Aglaope,Aglaope_infausta,NA,both,0,cyanogenic_glucoside concentration,physiological,external_contrast,raw_data,6,-0.07,
-Briolat et al.,2018b,obs110,s021,g039,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Aglaope,Aglaope_infausta,NA,both,0,cyanogenic_glucoside concentration,physiological,external_contrast,raw_data,6,-0.01,
-Briolat et al.,2018b,obs111,s021,g040,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Rhagades,Rhagades_pruni ,NA,both,0,cyanogenic_glucoside concentration,physiological,brightness,raw_data,4,0.16,
-Briolat et al.,2018b,obs112,s021,g040,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Rhagades,Rhagades_pruni ,NA,both,0,cyanogenic_glucoside concentration,physiological,saturation,raw_data,4,0.19,
-Briolat et al.,2018b,obs113,s021,g040,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Rhagades,Rhagades_pruni ,NA,both,0,cyanogenic_glucoside concentration,physiological,hue,raw_data,4,-0.24,
-Briolat et al.,2018b,obs114,s021,g040,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Rhagades,Rhagades_pruni ,NA,both,0,cyanogenic_glucoside concentration,physiological,external_contrast,raw_data,4,0.26,
-Briolat et al.,2018b,obs115,s021,g040,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Rhagades,Rhagades_pruni ,NA,both,0,cyanogenic_glucoside concentration,physiological,external_contrast,raw_data,4,0.41,
-Briolat et al.,2018b,obs116,s021,g041,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic_glucoside concentration,physiological,brightness,raw_data,18,-0.01,
-Briolat et al.,2018b,obs117,s021,g041,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic_glucoside concentration,physiological,saturation,raw_data,18,0.15,
-Briolat et al.,2018b,obs118,s021,g041,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic_glucoside concentration,physiological,hue,raw_data,18,0.22,
-Briolat et al.,2018b,obs119,s021,g041,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic_glucoside concentration,physiological,external_contrast,raw_data,18,0.26,
-Briolat et al.,2018b,obs120,s021,g041,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,NA,both,0,cyanogenic_glucoside concentration,physiological,external_contrast,raw_data,18,0.19,
-Briolat et al.,2018b,obs121,s021,g042,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_transalpina,NA,both,0,cyanogenic_glucoside concentration,physiological,brightness,raw_data,5,-0.67,
-Briolat et al.,2018b,obs122,s021,g042,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_transalpina,NA,both,0,cyanogenic_glucoside concentration,physiological,saturation,raw_data,5,0.77,
-Briolat et al.,2018b,obs123,s021,g042,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_transalpina,NA,both,0,cyanogenic_glucoside concentration,physiological,hue,raw_data,5,0.4,
-Briolat et al.,2018b,obs124,s021,g042,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_transalpina,NA,both,0,cyanogenic_glucoside concentration,physiological,external_contrast,raw_data,5,0.42,
-Briolat et al.,2018b,obs125,s021,g042,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_transalpina,NA,both,0,cyanogenic_glucoside concentration,physiological,external_contrast,raw_data,5,0.86,
-Wheeler et al.,2015,obs126,s022,g043,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Hippodamia,Hippodamia_convergens,NA,female,0,alkaloid quantity,physiological,hue,fig_4,8,0.83,
-Wheeler et al.,2015,obs127,s022,g043,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Hippodamia,Hippodamia_convergens,NA,male,0,alkaloid quantity,physiological,hue,fig_4,8,0.76,
-Reudler et al.,2015,obs128,s023,g044,among_individuals,insecta,pterygota,lepidoptera,NA,erebidae,Parasemia,Parasemia_plantaginis,NA,both,1,catapol quantity,physiological,area,text,27,-0.517,
-Chouteau et al.,2019,2019,s024,g045,among_species,insecta,pterygota,lepidoptera,NA,Nymphalidae,Heliconius,NA,NA,both,0,alkaloid quantity,physiological,external_contrast,modelled,8,0.52,
-Chouteau et al.,2019,2019,s024,g045,among_species,insecta,pterygota,lepidoptera,NA,Nymphalidae,Heliconius,NA,NA,both,0,chicken_feeding,bioassay,external_contrast,modelled,8,0.65,
-Chouteau et al.,2019,2019,s024,g045,among_species,insecta,pterygota,lepidoptera,NA,Nymphalidae,Heliconius,NA,NA,both,0,alkaloid quantity,physiological,external_contrast,modelled,8,0.4,
-Chouteau et al.,2019,2019,s024,g045,among_species,insecta,pterygota,lepidoptera,NA,Nymphalidae,Heliconius,NA,NA,both,0,chicken_feeding,bioassay,external_contrast,modelled,8,0.49,
+﻿author,year,obs,study,group,study_type,class,subclass,order,suborder,family,genus,species,tox_measure,col_var,n,r
+Arenas et al.,2015,obs001,s001,g001,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Adalia,Adalia_bipunctata,bioassay,saturation,39,0.19
+Arenas et al.,2015,obs002,s001,g002,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Aphidecta,Aphidecta_obliterata,bioassay,saturation,36,0.22
+Arenas et al.,2015,obs003,s001,g003,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Propylea,Propylea_quatuordecimpunctata,bioassay,saturation,36,0.12
+Arenas et al.,2015,obs004,s001,g004,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Halyzia,Halyzia_sedecimguttata,bioassay,saturation,36,0.38
+Arenas et al.,2015,obs005,s001,g005,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Exochomus,Exochomus_quadripustulatus,bioassay,saturation,37,0.03
+Arenas et al.,2015,obs006,s001,g006,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Adalia,Adalia_bipunctata,bioassay,saturation,37,0.22
+Arenas et al.,2015,obs007,s001,g001,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Adalia,Adalia_bipunctata,bioassay,internal_contrast,39,-0.09
+Arenas et al.,2015,obs008,s001,g002,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Aphidecta,Aphidecta_obliterata,bioassay,internal_contrast,36,0.3
+Arenas et al.,2015,obs009,s001,g003,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Propylea,Propylea_quatuordecimpunctata,bioassay,internal_contrast,36,0.21
+Arenas et al.,2015,obs010,s001,g004,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Halyzia,Halyzia_sedecimguttata,bioassay,internal_contrast,36,-0.14
+Arenas et al.,2015,obs011,s001,g005,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Exochomus,Exochomus_quadripustulatus,bioassay,internal_contrast,37,-0.11
+Arenas et al.,2015,obs012,s001,g006,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Adalia,Adalia_bipunctata,bioassay,internal_contrast,37,-0.19
+Vidal-Cordero et al.,2012,obs013,s002,g007,among_individuals,insecta,pterygota,hymenoptera,apocrita,vespidae,Polistes,Polistes_dominula,physiological,brightness,30,0.41
+Bezzerides et al.,2007,obs014,s003,g008,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Harmonia,Harmonia_axyridis,physiological,hue,17,-0.03
+Bezzerides et al.,2007,obs015,s003,g009,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Harmonia,Harmonia_axyridis,physiological,hue,25,-0.19
+Bezzerides et al.,2007,obs016,s003,g008,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Harmonia,Harmonia_axyridis,physiological,area,22,0.41
+Bezzerides et al.,2007,obs017,s003,g009,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Harmonia,Harmonia_axyridis,physiological,area,27,0.61
+Bezzerides et al.,2007,obs018,s003,g008,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Harmonia,Harmonia_axyridis,physiological,brightness,22,0.16
+Bezzerides et al.,2007,obs019,s003,g009,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Harmonia,Harmonia_axyridis,physiological,brightness,27,0.56
+Cortesi & Cheney,2007,obs020,s004,g010,among_species,gastropoda,heterobranchia,NA,NA,NA,NA,NA,bioassay,internal_contrast,20,0.59
+Cortesi & Cheney,2007,obs021,s004,g011,among_species,gastropoda,heterobranchia,NA,NA,NA,NA,NA,bioassay,external_contrast,20,0.63
+Crothers et al.,2016,obs022,s005,g012,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,physiological,brightness,20,0.03
+Crothers et al.,2016,obs023,s005,g012,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,physiological,saturation,20,0.02
+Crothers et al.,2016,obs024,s005,g012,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,physiological,external_contrast,20,0.33
+Crothers et al.,2016,obs025,s005,g012,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,physiological,brightness,20,-0.53
+Crothers et al.,2016,obs026,s005,g012,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,physiological,saturation,20,0.02
+Crothers et al.,2016,obs027,s005,g012,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,physiological,external_contrast,20,0.25
+Winters et al.,2014,obs028,s006,g013,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,physiological,saturation,32,0.61
+Winters et al.,2014,obs029,s006,g013,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,physiological,hue,32,0.57
+Winters et al.,2014,obs030,s006,g013,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,physiological,brightness,32,-0.02
+Winters et al.,2014,obs031,s006,g013,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,physiological,saturation,32,0.29
+Winters et al.,2014,obs032,s006,g013,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,physiological,hue,32,0.14
+Winters et al.,2014,obs033,s006,g013,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,physiological,brightness,32,0.22
+Briolat et al.,2018a,obs034,s007,g014,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,hue,22,0.05
+Briolat et al.,2018a,obs035,s007,g014,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,internal_contrast,22,0.15
+Briolat et al.,2018a,obs036,s007,g014,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,area,22,0.28
+Briolat et al.,2018a,obs037,s007,g014,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,brightness,22,0.42
+Briolat et al.,2018a,obs038,s007,g014,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,internal_contrast,22,0.47
+Briolat et al.,2018a,obs039,s007,g015,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,area,23,0.27
+Briolat et al.,2018a,obs040,s007,g015,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,saturation,23,0.31
+Briolat et al.,2018a,obs041,s007,g015,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,internal_contrast,23,0.15
+Briolat et al.,2018a,obs042,s007,g015,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,internal_contrast,23,0.22
+Briolat et al.,2018a,obs043,s007,g015,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,brightness,23,0.26
+Briolat et al.,2018a,obs044,s007,g016,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,internal_contrast,25,0.2
+Briolat et al.,2018a,obs045,s007,g016,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,saturation,25,0.09
+Briolat et al.,2018a,obs046,s007,g016,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,area,25,0.3
+Briolat et al.,2018a,obs047,s007,g016,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,internal_contrast,25,0.37
+Briolat et al.,2018a,obs048,s007,g016,among_individuals,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,brightness,25,0.48
+Briolat et al.,2018a,obs049,s007,g017,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,brightness,9,-0.27
+Briolat et al.,2018a,obs050,s007,g017,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,saturation,9,-0.33
+Briolat et al.,2018a,obs051,s007,g017,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,hue,9,-0.04
+Briolat et al.,2018a,obs052,s007,g017,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,internal_contrast,9,-0.15
+Briolat et al.,2018a,obs053,s007,g017,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,internal_contrast,9,-0.28
+Briolat et al.,2018a,obs054,s007,g017,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,area,9,-0.37
+Briolat et al.,2018a,obs055,s007,g018,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,brightness,11,0.78
+Briolat et al.,2018a,obs056,s007,g018,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,saturation,11,0.5
+Briolat et al.,2018a,obs057,s007,g018,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,hue,11,0.48
+Briolat et al.,2018a,obs058,s007,g018,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,internal_contrast,11,0.53
+Briolat et al.,2018a,obs059,s007,g018,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,internal_contrast,11,0.08
+Briolat et al.,2018a,obs060,s007,g018,among_populations,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,area,11,0.55
+Maan & Cummings,2012,obs061,s008,g019,among_populations,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,bioassay,brightness,10,0.78
+Maan & Cummings,2012,obs062,s008,g019,among_populations,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Oophaga,Oophaga_pumilio,bioassay,external_contrast,10,0.92
+Preibler et al.,2019,obs063,s009,g020,among_individuals,amphibia,lissamphibia,urodela,salamandroidea,salamandridae,Salamandra,Salamandra_salamandra,physiological,area,25,0.1
+Medina et al,2020,obs064,s010,g021,among_individuals,insecta,pterygota,hemiptera,heteroptera,scutelleridae,Tectocoris,Tectocoris_diophthalmus,bioassay,internal_contrast,16,0.08
+Medina et al,2020,obs065,s010,g021,among_individuals,insecta,pterygota,hemiptera,heteroptera,scutelleridae,Tectocoris,Tectocoris_diophthalmus,bioassay,external_contrast,16,0.4
+Medina et al,2020,obs066,s010,g022,among_individuals,insecta,pterygota,hemiptera,heteroptera,scutelleridae,Tectocoris,Tectocoris_diophthalmus,bioassay,internal_contrast,23,0.37
+Medina et al,2020,obs067,s010,g022,among_individuals,insecta,pterygota,hemiptera,heteroptera,scutelleridae,Tectocoris,Tectocoris_diophthalmus,bioassay,external_contrast,23,-0.17
+Medina et al,2020,obs068,s010,g023,among_individuals,insecta,pterygota,hemiptera,heteroptera,scutelleridae,Tectocoris,Tectocoris_diophthalmus,bioassay,internal_contrast,11,-0.45
+Medina et al,2020,obs069,s010,g023,among_individuals,insecta,pterygota,hemiptera,heteroptera,scutelleridae,Tectocoris,Tectocoris_diophthalmus,bioassay,external_contrast,11,-0.48
+Darst et al.,2006,obs070,s011,g024,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Epipedobates,Epipedobates_bilinguis,bioassay,internal_contrast,19,0.84
+Darst et al.,2006,obs071,s011,g025,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Epipedobates,Epipedobates_parvulus,bioassay,internal_contrast,24,0.83
+Darst et al.,2006,obs072,s011,g026,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Epipedobates,Epipedobates_hahneli,bioassay,internal_contrast,10,0.86
+Santos & Cannatella,2011,obs073,s012,g027,among_species,amphibia,lissamphibia,anura,NA,NA,NA,NA,physiological,external_contrast,21,0.7
+Santos & Cannatella,2011,obs074,s012,g027,among_species,amphibia,lissamphibia,anura,NA,NA,NA,NA,physiological,external_contrast,21,0.55
+Summers & Clough,2001,obs075,s013,g028,among_species,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,NA,NA,physiological,external_contrast,21,0.53
+Summers & Clough,2001,obs076,s013,g028,among_species,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,NA,NA,physiological,external_contrast,21,0.67
+Blount et al.,2012,obs077,s014,g029,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,physiological,saturation,18,0.71
+Blount et al.,2012,obs078,s014,g030,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,physiological,saturation,18,-0.44
+Blount et al.,2012,obs079,s014,g029,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,physiological,area,18,0.25
+Blount et al.,2012,obs080,s014,g030,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,physiological,saturation,13,0.23
+Blount et al.,2012,obs081,s014,g029,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,physiological,saturation,13,0.42
+Blount et al.,2012,obs082,s014,g030,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Coccinella,Coccinella_septempunctata,physiological,area,13,-0.18
+Stuckert et al.,2018,obs083,s015,g031,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Ranitomeya,Ranitomeya_imitator,physiological,brightness,10,-0.34
+Stuckert et al.,2018,obs084,s015,g031,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Ranitomeya,Ranitomeya_imitator,physiological,external_contrast,10,0.21
+Stuckert et al.,2018,obs085,s015,g031,among_individuals,amphibia,lissamphibia,anura,neobatrachia,dendrobatidae,Ranitomeya,Ranitomeya_imitator,physiological,external_contrast,10,0.19
+Bonasea & Vaira,2012,obs086,s016,g032,among_populations,amphibia,lissamphibia,anura,neobatrachia,Bufonidae,Melanophryniscus,Melanophryniscus_rubriventris ,physiological,area,5,-0.75
+Bonasea & Vaira,2012,obs087,s016,g032,among_populations,amphibia,lissamphibia,anura,neobatrachia,Bufonidae,Melanophryniscus,Melanophryniscus_rubriventris ,physiological,saturation,5,-0.47
+Bonasea & Vaira,2012,obs088,s016,g032,among_populations,amphibia,lissamphibia,anura,neobatrachia,Bufonidae,Melanophryniscus,Melanophryniscus_rubriventris ,physiological,hue,5,-0.26
+Bonasea & Vaira,2012,obs089,s016,g032,among_populations,amphibia,lissamphibia,anura,neobatrachia,Bufonidae,Melanophryniscus,Melanophryniscus_rubriventris ,physiological,brightness,5,0.25
+Sanchez et al.,2018,obs090,s017,g033,among_individuals,amphibia,lissamphibia,urodela,salamandroidea,salamandridae,Salamandra,Salamandra_salamandra,physiological,external_contrast,43,0.13
+Sanchez et al.,2018,obs091,s017,g033,among_individuals,amphibia,lissamphibia,urodela,salamandroidea,salamandridae,Salamandra,Salamandra_salamandra,physiological,external_contrast,43,0.04
+Sanchez et al.,2018,obs092,s017,g033,among_individuals,amphibia,lissamphibia,urodela,salamandroidea,salamandridae,Salamandra,Salamandra_salamandra,physiological,internal_contrast,43,0.07
+Sanchez et al.,2018,obs093,s017,g033,among_individuals,amphibia,lissamphibia,urodela,salamandroidea,salamandridae,Salamandra,Salamandra_salamandra,physiological,internal_contrast,43,0.13
+Paul et al. ,2018,obs094,s018,g034,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Adalia,Adalia_bipunctata,physiological,brightness,104,0.54
+Paul et al. ,2018,obs095,s018,g034,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Adalia,Adalia_bipunctata,physiological,saturation,104,0.29
+Winters et al.,2018,obs096,s019,g035,among_species,gastropoda,heterobranchia,NA,NA,NA,NA,NA,bioassay,saturation,6,0.69
+Winters et al.,2018,obs097,s019,g035,among_species,gastropoda,heterobranchia,NA,NA,NA,NA,NA,bioassay,brightness,6,-0.07
+Winters et al.,2018,obs098,s019,g035,among_species,gastropoda,heterobranchia,NA,NA,NA,NA,NA,bioassay,hue,6,0.48
+Amezquita et al.,2017,obs099,s020,g036,among_populations,amphibia,lissamphibia,anura,neobatrachia,allobatinae,Allobates,Allobates_femoralis,bioassay,brightness,6,0.51
+Amezquita et al.,2017,obs100,s020,g037,among_species,amphibia,lissamphibia,anura,neobatrachia,NA,NA,NA,bioassay,brightness,7,0.25
+Briolat et al.,2018b,obs101,s021,g038,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,NA,NA,physiological,brightness,14,0.22
+Briolat et al.,2018b,obs102,s021,g038,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,NA,NA,physiological,saturation,14,-0.58
+Briolat et al.,2018b,obs103,s021,g038,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,NA,NA,physiological,hue,14,-0.56
+Briolat et al.,2018b,obs104,s021,g038,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,NA,NA,physiological,external_contrast,14,-0.61
+Briolat et al.,2018b,obs105,s021,g038,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,NA,NA,physiological,external_contrast,12,0.05
+Briolat et al.,2018b,obs106,s021,g039,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Aglaope,Aglaope_infausta,physiological,brightness,6,0.24
+Briolat et al.,2018b,obs107,s021,g039,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Aglaope,Aglaope_infausta,physiological,saturation,6,-0.18
+Briolat et al.,2018b,obs108,s021,g039,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Aglaope,Aglaope_infausta,physiological,hue,6,-0.17
+Briolat et al.,2018b,obs109,s021,g039,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Aglaope,Aglaope_infausta,physiological,external_contrast,6,-0.07
+Briolat et al.,2018b,obs110,s021,g039,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Aglaope,Aglaope_infausta,physiological,external_contrast,6,-0.01
+Briolat et al.,2018b,obs111,s021,g040,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Rhagades,Rhagades_pruni ,physiological,brightness,4,0.16
+Briolat et al.,2018b,obs112,s021,g040,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Rhagades,Rhagades_pruni ,physiological,saturation,4,0.19
+Briolat et al.,2018b,obs113,s021,g040,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Rhagades,Rhagades_pruni ,physiological,hue,4,-0.24
+Briolat et al.,2018b,obs114,s021,g040,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Rhagades,Rhagades_pruni ,physiological,external_contrast,4,0.26
+Briolat et al.,2018b,obs115,s021,g040,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Rhagades,Rhagades_pruni ,physiological,external_contrast,4,0.41
+Briolat et al.,2018b,obs116,s021,g041,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,brightness,18,-0.01
+Briolat et al.,2018b,obs117,s021,g041,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,saturation,18,0.15
+Briolat et al.,2018b,obs118,s021,g041,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,hue,18,0.22
+Briolat et al.,2018b,obs119,s021,g041,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,external_contrast,18,0.26
+Briolat et al.,2018b,obs120,s021,g041,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_filipendulae,physiological,external_contrast,18,0.19
+Briolat et al.,2018b,obs121,s021,g042,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_transalpina,physiological,brightness,5,-0.67
+Briolat et al.,2018b,obs122,s021,g042,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_transalpina,physiological,saturation,5,0.77
+Briolat et al.,2018b,obs123,s021,g042,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_transalpina,physiological,hue,5,0.4
+Briolat et al.,2018b,obs124,s021,g042,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_transalpina,physiological,external_contrast,5,0.42
+Briolat et al.,2018b,obs125,s021,g042,among_species,insecta,pterygota,lepidoptera,ditrysia,Zygaenidae,Zygaena,Zygaena_transalpina,physiological,external_contrast,5,0.86
+Wheeler et al.,2015,obs126,s022,g043,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Hippodamia,Hippodamia_convergens,physiological,hue,8,0.83
+Wheeler et al.,2015,obs127,s022,g043,among_individuals,insecta,pterygota,coleoptera,polyphaga,coccinellidae,Hippodamia,Hippodamia_convergens,physiological,hue,8,0.76
+Reudler et al.,2015,obs128,s023,g044,among_individuals,insecta,pterygota,lepidoptera,NA,erebidae,Parasemia,Parasemia_plantaginis,physiological,area,27,-0.517
+Chouteau et al.,2019,2019,s024,g045,among_species,insecta,pterygota,lepidoptera,NA,Nymphalidae,Heliconius,NA,physiological,external_contrast,8,0.52
+Chouteau et al.,2019,2019,s024,g045,among_species,insecta,pterygota,lepidoptera,NA,Nymphalidae,Heliconius,NA,bioassay,external_contrast,8,0.65
+Chouteau et al.,2019,2019,s024,g045,among_species,insecta,pterygota,lepidoptera,NA,Nymphalidae,Heliconius,NA,physiological,external_contrast,8,0.4
+Chouteau et al.,2019,2019,s024,g045,among_species,insecta,pterygota,lepidoptera,NA,Nymphalidae,Heliconius,NA,bioassay,external_contrast,8,0.49
