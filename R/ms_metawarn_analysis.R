@@ -1,5 +1,6 @@
 ## Code for: 
-## White TE, Umbers KDL. Meta-analytic evidence for quantitative honesty in aposematic signals.
+## White TE, Umbers KDL (2021) Meta-analytic evidence for quantitative honesty 
+## in aposematic signals. Proc. R. Soc. B.
 
 ## Reset
   rm(list = ls())

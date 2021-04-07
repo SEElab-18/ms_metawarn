@@ -1,4 +1,4 @@
-## Date and code for White & Umbers: Meta-analytic evidence for quantitative honesty in aposematic signals
+## Date and code for White TE, Umbers KDL (2021). Meta-analytic evidence for quantitative honesty in aposematic signals. Proc. R. Soc. B.
 
 ### Contains:
 
