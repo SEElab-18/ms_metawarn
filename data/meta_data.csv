@@ -1,0 +1,18 @@
+variable,"	type","	description"
+author,"	character",study author(s)
+year,"	numeric",publication year of study
+obs,"	character",observation-level ID
+study,"	character",study-level ID
+group,"	character",group-level ID
+study_type,"	character",scale at which correlation was estimated
+class,"	character",class of the focal organism(s)
+subclass, character,subclass of the focal organism(s)
+order,"	character",order of the focal organism(s)
+suborder,"	character",suborder of the focal organism(s)
+family,"	character",family of the focal organism(s)
+genus,"	character",genus of the focal organism(s)
+species,"	character",species of the focal organism(s)
+tox_measure,"	character",which of two types of measures was used to continuously quantify chemical defences
+col_var,"	character",type of colour measure used to quanitify signal appearance
+n,"	numeric","	sample size"
+r,"	numeric","	Pearson's r"
